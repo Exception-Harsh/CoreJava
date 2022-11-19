@@ -1,3 +1,5 @@
+package JavaAssignments;
+
 public class PyramidPattern {
     public static void main(String[] args) {
         int i, j, row = 6;
