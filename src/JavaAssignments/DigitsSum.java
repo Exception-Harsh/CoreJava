@@ -18,7 +18,7 @@ public class DigitsSum {
                 sum2 += i;
             }
         }
-        int finalsum = sum2 - sum1;
-        System.out.println(finalsum);
+        int final_sum = sum2 - sum1;
+        System.out.println(final_sum);
     }
 }
