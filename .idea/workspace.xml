@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/src/JavaAssignments/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaAssignments/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAssignments/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669836155677</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Factorial logic">
+      <created>1669837019144</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669837019144</updated>
+    </task>
+    <task id="LOCAL-00010" summary="...">
+      <created>1669837034850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669837034850</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +160,7 @@
     <MESSAGE value="basic java programs" />
     <MESSAGE value="test" />
     <MESSAGE value="Number Reverse" />
+    <MESSAGE value="Factorial logic" />
     <MESSAGE value="..." />
     <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
