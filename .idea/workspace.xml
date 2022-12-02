@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +183,49 @@
       <option name="project" value="LOCAL" />
       <updated>1669888508465</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Rectangular Pattern">
+      <created>1670011960618</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670011960618</updated>
+    </task>
+    <task id="LOCAL-00016" summary="...">
+      <created>1670011986102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670011986102</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Hollow Rectangle">
+      <created>1670012533434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670012533434</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Normal Triangle Pattern">
+      <created>1670013889270</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670013889270</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Normal Triangle Pattern">
+      <created>1670014003485</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670014003485</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Normal Triangle Pattern">
+      <created>1670014057163</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670014057163</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,8 +247,11 @@
     <MESSAGE value="Factorial logic" />
     <MESSAGE value="Factoral Logic" />
     <MESSAGE value="HackerRank Problem" />
+    <MESSAGE value="Rectangular Pattern" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Hollow Rectangle" />
+    <MESSAGE value="Normal Triangle Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Normal Triangle Pattern" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
