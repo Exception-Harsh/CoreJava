@@ -35,47 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="DigitsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAssignments.DigitsSum" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAssignments.HackerRank" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.HackerRank" />
-        <item itemvalue="Application.DigitsSum" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -225,7 +192,56 @@
       <option name="project" value="LOCAL" />
       <updated>1670014057163</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Inverted Right Angle Triangle">
+      <created>1670015521418</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670015521418</updated>
+    </task>
+    <task id="LOCAL-00022" summary="...">
+      <created>1670015577814</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670015577814</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Normal Triangle">
+      <created>1670041270557</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670041270557</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Number Rectangle">
+      <created>1670042282273</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670042282273</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Decimal to Binary conversion">
+      <created>1670334984824</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670334984824</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Binary to Decimal Conversion">
+      <created>1670335780344</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670335780344</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Binary to Decimal">
+      <created>1670843709148</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670843709148</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,10 +264,16 @@
     <MESSAGE value="Factoral Logic" />
     <MESSAGE value="HackerRank Problem" />
     <MESSAGE value="Rectangular Pattern" />
-    <MESSAGE value="..." />
     <MESSAGE value="Hollow Rectangle" />
     <MESSAGE value="Normal Triangle Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Normal Triangle Pattern" />
+    <MESSAGE value="Inverted Right Angle Triangle" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Normal Triangle" />
+    <MESSAGE value="Number Rectangle" />
+    <MESSAGE value="Decimal to Binary conversion" />
+    <MESSAGE value="Binary to Decimal Conversion" />
+    <MESSAGE value="Binary to Decimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary to Decimal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
