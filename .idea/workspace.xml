@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
+    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayProblems/ArrayConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayProblems/ArrayConcepts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ArrayProblems/TargetSum.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2HlhxroBNwANrkyFQPtQEaFRmTu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,10 +41,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "C:/Users/singh/IdeaProjects/BasicJava",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -241,7 +251,91 @@
       <option name="project" value="LOCAL" />
       <updated>1670843709148</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Sum of elements of Arrays">
+      <created>1670949718176</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1670949718176</updated>
+    </task>
+    <task id="LOCAL-00029" summary="...">
+      <created>1670949734191</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1670949734191</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Max value in Array">
+      <created>1670951777085</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670951777085</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Element search in Array">
+      <created>1670954161579</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1670954161579</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Copying Arrays">
+      <created>1670964407933</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1670964407933</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Duplicate values in Array">
+      <created>1671026037762</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1671026037762</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Min and Max value in Array">
+      <created>1671027351962</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1671027351962</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Trying out Basic concepts of Array">
+      <created>1671260612705</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1671260612705</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Second Largest Element in Array">
+      <created>1671306446907</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1671306446907</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Jagged Array Concept">
+      <created>1671421343810</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1671421343810</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Target Sum problem">
+      <created>1672042121011</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1672042121011</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1672111004981</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1672111004981</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,8 +351,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="basic java programs" />
-    <MESSAGE value="test" />
     <MESSAGE value="Number Reverse" />
     <MESSAGE value="Factorial logic" />
     <MESSAGE value="Factoral Logic" />
@@ -267,13 +359,24 @@
     <MESSAGE value="Hollow Rectangle" />
     <MESSAGE value="Normal Triangle Pattern" />
     <MESSAGE value="Inverted Right Angle Triangle" />
-    <MESSAGE value="..." />
     <MESSAGE value="Normal Triangle" />
     <MESSAGE value="Number Rectangle" />
     <MESSAGE value="Decimal to Binary conversion" />
     <MESSAGE value="Binary to Decimal Conversion" />
     <MESSAGE value="Binary to Decimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary to Decimal" />
+    <MESSAGE value="Sum of elements of Arrays" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Max value in Array" />
+    <MESSAGE value="Element search in Array" />
+    <MESSAGE value="Copying Arrays" />
+    <MESSAGE value="Duplicate values in Array" />
+    <MESSAGE value="Min and Max value in Array" />
+    <MESSAGE value="Trying out Basic concepts of Array" />
+    <MESSAGE value="Second Largest Element in Array" />
+    <MESSAGE value="Jagged Array Concept" />
+    <MESSAGE value="Target Sum problem" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
