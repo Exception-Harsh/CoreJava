@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayProblems/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayProblems/ArrayReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/singh/IdeaProjects/BasicJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -358,7 +357,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672243036955</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Added two functions for reversing the array">
+      <created>1672267711731</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1672267711731</updated>
+    </task>
+    <task id="LOCAL-00044" summary="...">
+      <created>1672267939484</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1672267939484</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Program for Array Rotation">
+      <created>1672327622535</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1672327622535</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,8 +394,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Factorial logic" />
-    <MESSAGE value="Factoral Logic" />
     <MESSAGE value="HackerRank Problem" />
     <MESSAGE value="Rectangular Pattern" />
     <MESSAGE value="Hollow Rectangle" />
@@ -397,9 +415,11 @@
     <MESSAGE value="Jagged Array Concept" />
     <MESSAGE value="Target Sum problem" />
     <MESSAGE value=".." />
-    <MESSAGE value="..." />
     <MESSAGE value="Reverse Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Array" />
+    <MESSAGE value="Added two functions for reversing the array" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Program for Array Rotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program for Array Rotation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
