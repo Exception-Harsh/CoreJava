@@ -22,14 +22,19 @@ public class ArrayFrequency {
         }
 
         int[] freq = makeFrequencyArray(array);
+        System.out.print("Enter no. of queries: ");
+        int query = scan.nextInt();
 
-        System.out.print("Enter the element to be searched: ");
-        int target = scan.nextInt();
+        while (query > 0) {
+            System.out.print("Enter the element to be searched: ");
+            int target = scan.nextInt();
 
-        if (freq[target] > 0)
-            System.out.println("Number is present in Array.");
-        else
-            System.out.println("Number is not present in Array.");
+            if (freq[target] > 0)
+                System.out.println("Number is present in Array.");
+            else
+                System.out.println("Number is not present in Array.");
 
+            query--;
+        }
     }
 }
