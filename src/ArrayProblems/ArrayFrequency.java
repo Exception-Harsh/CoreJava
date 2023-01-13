@@ -1,5 +1,4 @@
 package ArrayProblems;
-
 import java.util.Scanner;
 
 public class ArrayFrequency {
