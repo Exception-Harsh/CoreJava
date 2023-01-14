@@ -5,17 +5,17 @@ import java.util.Scanner;
 public class SortingEvenOdd {
 
     public static void sortEvenAndOdd(int[] array) {
-        int i = 0, j = array.length - 1;
-        while (i < j) {
-            if (array[i] % 2 == 1 && array[j] % 2 == 0) {
-                int temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-                i++;
-                j--;
+        int left = 0, right = array.length - 1;
+        while (left < right) {
+            if (array[left] % 2 == 1 && array[right] % 2 == 0) {
+                int temp = array[left];
+                array[left] = array[right];
+                array[right] = temp;
+                left++;
+                right--;
             }
-            if (array[i] % 2 == 0) {i++;}
-            if (array[j] % 2 == 1) {j--;}
+            if (array[left] % 2 == 0) {left++;}
+            if (array[right] % 2 == 1) {right--;}
         }
     }
 
