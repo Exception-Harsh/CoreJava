@@ -1,4 +1,4 @@
-package PointerArrayProblems;
+package PrefixProblems;
 import ArrayProblems.ArrayConcepts;
 import java.util.Scanner;
 

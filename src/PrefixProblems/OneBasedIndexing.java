@@ -1,4 +1,5 @@
-package PointerArrayProblems;
+package PrefixProblems;
+
 import java.util.Scanner;
 
 public class OneBasedIndexing {
