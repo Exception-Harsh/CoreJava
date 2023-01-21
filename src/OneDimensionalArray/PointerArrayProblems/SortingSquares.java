@@ -1,5 +1,5 @@
-package PointerArrayProblems;
-import ArrayProblems.ArrayConcepts;
+package OneDimensionalArray.PointerArrayProblems;
+import OneDimensionalArray.ArrayProblems.ArrayConcepts;
 import java.util.Scanner;
 
 public class SortingSquares {

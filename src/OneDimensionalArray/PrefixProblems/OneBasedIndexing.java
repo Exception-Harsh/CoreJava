@@ -1,4 +1,4 @@
-package PrefixProblems;
+package OneDimensionalArray.PrefixProblems;
 
 import java.util.Scanner;
 

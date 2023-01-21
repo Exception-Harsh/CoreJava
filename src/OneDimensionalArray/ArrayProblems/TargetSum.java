@@ -1,4 +1,4 @@
-package ArrayProblems;
+package OneDimensionalArray.ArrayProblems;
 import java.util.Scanner;
 
 public class TargetSum {

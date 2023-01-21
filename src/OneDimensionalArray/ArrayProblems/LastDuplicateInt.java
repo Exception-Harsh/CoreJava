@@ -1,4 +1,4 @@
-package ArrayProblems;
+package OneDimensionalArray.ArrayProblems;
 
 public class LastDuplicateInt {
     public static int lastDuplicate(int[] arr) {

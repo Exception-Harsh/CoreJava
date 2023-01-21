@@ -1,5 +1,5 @@
-package PrefixProblems;
-import ArrayProblems.ArrayConcepts;
+package OneDimensionalArray.PrefixProblems;
+import OneDimensionalArray.ArrayProblems.ArrayConcepts;
 import java.util.Scanner;
 
 public class ArrayPartitioning {

@@ -1,4 +1,4 @@
-package ArrayProblems;
+package OneDimensionalArray.ArrayProblems;
 
 public class ArraySum {
     public static void main(String[] args) {
