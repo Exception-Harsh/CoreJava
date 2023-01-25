@@ -1,4 +1,5 @@
-package TwoDimensionalArray;
+package TwoDimensionalArray.Assignment_1;
+import TwoDimensionalArray.MatrixMethods;
 import java.util.Scanner;
 
 public class MatrixSum {
