@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
         int x = 1;
+        Scanner scan = new Scanner(System.in);
         while (x < 11) {
-            Scanner scan = new Scanner(System.in);
             System.out.print("Enter Number: ");
             int num = scan.nextInt();
             int fact = 1;
@@ -17,5 +17,6 @@ public class Factorial {
             System.out.println("Factorial of the entered number: " + fact);
             x++;
         }
+        scan.close();
     }
 }
