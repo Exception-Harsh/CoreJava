@@ -8,6 +8,7 @@ public class DigitsSum {
 
         System.out.print("Enter a number: ");
         int num = scan.nextInt();
+        scan.close();
         int sum1 = 0, sum2 = 0;
 
         for (int i = 1; i <= num; i++) {
