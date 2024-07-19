@@ -1,4 +1,4 @@
 <body>
-    <h1 align="center">JAVA REPOSITORY</h1>
-    <h6 align="center">Basic programs of JAVA</h6>
+    <h1 align="center">CORE JAVA REPOSITORY</h1>
+    <b align="center">Repository for core Java and DSA programs</b>
 </body>
