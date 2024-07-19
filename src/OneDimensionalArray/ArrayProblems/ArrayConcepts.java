@@ -17,16 +17,4 @@ public class ArrayConcepts {
         System.out.println();
     }
 
-    public static void main(String[] args) {
-        System.out.print("Enter the size of Array: ");
-        int size = scan.nextInt();
-        int[] array_1 = new int[size];
-
-        inputIntArray(array_1);
-        printIntArray(array_1);
-
-        int[] array_2;
-        array_2 = array_1;
-        printIntArray(array_2);
-    }
 }
