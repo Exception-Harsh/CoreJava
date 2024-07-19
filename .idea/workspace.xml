@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaAssignments/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneDimensionalArray/ArrayProblems/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneDimensionalArray/PointerArrayProblems/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OneDimensionalArray/PrefixProblems/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimensionalArray/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimensionalArray/Assignment_1/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +40,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="938d130a-3f13-4785-a2b3-229ed0ab7d2a" />
-        <option name="url" value="https://github.com/Exception-Harsh/BasicJava.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Exception-Harsh/BasicJava.git&quot;,
+    &quot;accountId&quot;: &quot;938d130a-3f13-4785-a2b3-229ed0ab7d2a&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/JavaAssignments/BinaryToDecimal.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -57,6 +67,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayPartitioning.executor": "Debug",
+    "Application.ArrayRotate.executor": "Run",
+    "Application.BinaryToDecimal.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Simple2.executor": "Run",
+    "Application.String_1.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "true",
@@ -67,10 +83,28 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/harsh/Documents/GitHub/Java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="BasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
