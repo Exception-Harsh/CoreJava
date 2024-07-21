@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="Creating and studying the concept of ArrayList1">
-      <change afterPath="$PROJECT_DIR$/src/CollectionsProgram/LinkedList/LinkedList1.java" afterDir="false" />
+    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     "Application.BinaryToDecimal.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.LinkedList1.executor": "Run",
+    "Application.PyramidPattern.executor": "Run",
     "Application.Simple2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.TargetSum.executor": "Run",
@@ -415,22 +415,6 @@
       <option name="project" value="LOCAL" />
       <updated>1674320995124</updated>
     </task>
-    <task id="LOCAL-00047" summary="pushing all changes">
-      <option name="closed" value="true" />
-      <created>1721385086778</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1721385086779</updated>
-    </task>
-    <task id="LOCAL-00048" summary="updating">
-      <option name="closed" value="true" />
-      <created>1721395733449</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1721395733449</updated>
-    </task>
     <task id="LOCAL-00049" summary="Creating and studying the concept of ArrayList1">
       <option name="closed" value="true" />
       <created>1721473947861</created>
@@ -439,7 +423,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721473947861</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Learning LinkedList using Collection Framework">
+      <option name="closed" value="true" />
+      <created>1721475175690</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1721475175691</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Update file">
+      <option name="closed" value="true" />
+      <created>1721475223285</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1721475223285</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,8 +455,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Inverted Right Angle Triangle" />
-    <MESSAGE value="Normal Triangle" />
     <MESSAGE value="Number Rectangle" />
     <MESSAGE value="Decimal to Binary conversion" />
     <MESSAGE value="Binary to Decimal Conversion" />
@@ -480,7 +478,9 @@
     <MESSAGE value="pushing all changes" />
     <MESSAGE value="updating" />
     <MESSAGE value="Creating and studying the concept of ArrayList1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating and studying the concept of ArrayList1" />
+    <MESSAGE value="Learning LinkedList using Collection Framework" />
+    <MESSAGE value="Update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
