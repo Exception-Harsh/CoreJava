@@ -1,11 +1,13 @@
-package DsaAlgorithms;
+package DsaAlgorithms.BubbleSort;
 
 import OneDimensionalArray.ArrayProblems.ArrayConcepts;
 import java.util.*;
 
 public class BubbleSort {
-    public static int[] ascBubbleSort(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
+    /*The reason for i < arr.length - 1 is because we don't need to iterate the n(array size) times, as the sorting can be done in n - 1 iterations. */
+
+    public static void ascBubbleSort(int[] arr) {
+        for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - i - 1; j++) {
                 if (arr[j] > arr[j + 1]) {
                     int temp = arr[j];
@@ -14,11 +16,10 @@ public class BubbleSort {
                 }
             }
         }
-        return arr;
     }
 
-    public static int[] descBubbleSort(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
+    public static void descBubbleSort(int[] arr) {
+        for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - i - 1; j++) {
                 if (arr[j] < arr[j + 1]) {
                     int temp = arr[j];
@@ -27,7 +28,6 @@ public class BubbleSort {
                 }
             }
         }
-        return arr;
     }
 
     public static void main(String[] args) {
@@ -37,14 +37,18 @@ public class BubbleSort {
 
         int[] array1 = new int[size];
         ArrayConcepts.inputIntArray(array1);
-        ArrayConcepts.printIntArray(array1);
 
         //after ascending bubble sort
-        int[] ansArray1 = ascBubbleSort(array1);
-        ArrayConcepts.printIntArray(ansArray1);
+        ascBubbleSort(array1);
+        System.out.print("Elements after sorted in ascending order: ");
+        ArrayConcepts.printIntArray(array1);
 
         //after descending bubble sort
-        int[] ansArray2 = descBubbleSort(array1);
-        ArrayConcepts.printIntArray(ansArray2);
+        descBubbleSort(array1);
+        System.out.print("Elements after sorted in descending order: ");
+        ArrayConcepts.printIntArray(array1);
     }
 }
+
+/* In bubble sort algorithm, in each iteration the largest number in the array is placed in its right position according to ascending or descending order*/
+//number of swaps in worst case scenario is (n(n - 1))/ 2
