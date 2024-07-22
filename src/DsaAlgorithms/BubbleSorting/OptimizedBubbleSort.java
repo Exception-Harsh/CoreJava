@@ -1,4 +1,4 @@
-package DsaAlgorithms.BubbleSort;
+package DsaAlgorithms.BubbleSorting;
 
 import java.util.Scanner;
 import OneDimensionalArray.ArrayProblems.ArrayConcepts;
