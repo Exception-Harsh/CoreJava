@@ -11,7 +11,7 @@ public class ConvertingArray {
         int n = scan.nextInt();
         int[] arr = new int[m * n];
 
-        System.out.println("Enter a elements in ascending order: ");
+        System.out.println("Enter elements: ");
         for (int i = 0; i < m * n; i++) {
             arr[i] = scan.nextInt();
         }
