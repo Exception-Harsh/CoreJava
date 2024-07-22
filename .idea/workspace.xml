@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
+    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="updated the methods">
+      <change afterPath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort/OptimizedBubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Application.ConvertingArray.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.LinkedList1.executor": "Run",
+    "Application.OptimizedBubbleSort.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.Simple2.executor": "Run",
     "Application.String_1.executor": "Run",
@@ -417,31 +420,31 @@
       <option name="project" value="LOCAL" />
       <updated>1674320995124</updated>
     </task>
-    <task id="LOCAL-00051" summary="Update file">
+    <task id="LOCAL-00054" summary="...">
       <option name="closed" value="true" />
-      <created>1721475223285</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1721643796892</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1721475223285</updated>
+      <updated>1721643796893</updated>
     </task>
-    <task id="LOCAL-00052" summary="updated the java code">
+    <task id="LOCAL-00055" summary="Basic Bubble Sort algorithm for sorting array elements in asc/desc order">
       <option name="closed" value="true" />
-      <created>1721637551849</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1721643855371</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1721637551850</updated>
+      <updated>1721643855371</updated>
     </task>
-    <task id="LOCAL-00053" summary="..">
+    <task id="LOCAL-00056" summary="updated the methods">
       <option name="closed" value="true" />
-      <created>1721637561713</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+      <created>1721644883696</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1721637561713</updated>
+      <updated>1721644883698</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,8 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Decimal to Binary conversion" />
-    <MESSAGE value="Binary to Decimal Conversion" />
     <MESSAGE value="Binary to Decimal" />
     <MESSAGE value="Sum of elements of Arrays" />
     <MESSAGE value="Max value in Array" />
@@ -472,7 +473,6 @@
     <MESSAGE value="Target Sum problem" />
     <MESSAGE value="Reverse Array" />
     <MESSAGE value="Added two functions for reversing the array" />
-    <MESSAGE value="..." />
     <MESSAGE value="Program for Array Rotation" />
     <MESSAGE value="new package" />
     <MESSAGE value="pushing all changes" />
@@ -482,7 +482,10 @@
     <MESSAGE value="Update file" />
     <MESSAGE value="updated the java code" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="..." />
+    <MESSAGE value="Basic Bubble Sort algorithm for sorting array elements in asc/desc order" />
+    <MESSAGE value="updated the methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the methods" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
