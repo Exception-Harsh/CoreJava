@@ -10,7 +10,6 @@ public class ArrayConcepts {
         }
     }
     public static void printIntArray(int[] array) {
-        System.out.print("Elements in the Array: ");
         for (int j : array) {
             System.out.print(j + " ");
         }
