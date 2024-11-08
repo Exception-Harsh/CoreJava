@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="updated the methods">
-      <change afterPath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort/OptimizedBubbleSort.java" afterDir="false" />
+    <list default="true" id="60a4b8b1-8f43-48ce-bd20-853242dac9c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DsaAlgorithms/MergeSorting/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DsaAlgorithms/BubbleSort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-22/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/DsaAlgorithms/SelectionSorting/SelectionSort.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/JavaAssignments/BinaryToDecimal.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -59,22 +59,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayList1.executor": "Run",
+    "Application.ArrayList2.executor": "Run",
     "Application.ArrayPartitioning.executor": "Debug",
     "Application.ArrayRotate.executor": "Run",
     "Application.BinaryToDecimal.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.ConvertingArray.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.HackerRank.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.LinkedList1.executor": "Run",
+    "Application.MergeSort.executor": "Run",
     "Application.OptimizedBubbleSort.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Problem1.executor": "Run",
+    "Application.Problem2.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.Simple2.executor": "Run",
     "Application.String_1.executor": "Run",
     "Application.TargetSum.executor": "Run",
+    "Application.test.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -420,31 +433,31 @@
       <option name="project" value="LOCAL" />
       <updated>1674320995124</updated>
     </task>
-    <task id="LOCAL-00054" summary="...">
+    <task id="LOCAL-00063" summary="Sorting int array using Insertion Sort">
       <option name="closed" value="true" />
-      <created>1721643796892</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+      <created>1721664876422</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
       <option name="project" value="LOCAL" />
-      <updated>1721643796893</updated>
+      <updated>1721664876422</updated>
     </task>
-    <task id="LOCAL-00055" summary="Basic Bubble Sort algorithm for sorting array elements in asc/desc order">
+    <task id="LOCAL-00064" summary="Solving problem 1">
       <option name="closed" value="true" />
-      <created>1721643855371</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+      <created>1721667475823</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
       <option name="project" value="LOCAL" />
-      <updated>1721643855371</updated>
+      <updated>1721667475823</updated>
     </task>
-    <task id="LOCAL-00056" summary="updated the methods">
+    <task id="LOCAL-00065" summary="Solving problem 2">
       <option name="closed" value="true" />
-      <created>1721644883696</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+      <created>1721671678298</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
       <option name="project" value="LOCAL" />
-      <updated>1721644883698</updated>
+      <updated>1721671678298</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,15 +473,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Binary to Decimal" />
-    <MESSAGE value="Sum of elements of Arrays" />
-    <MESSAGE value="Max value in Array" />
-    <MESSAGE value="Element search in Array" />
-    <MESSAGE value="Copying Arrays" />
-    <MESSAGE value="Duplicate values in Array" />
-    <MESSAGE value="Min and Max value in Array" />
-    <MESSAGE value="Trying out Basic concepts of Array" />
-    <MESSAGE value="Second Largest Element in Array" />
     <MESSAGE value="Jagged Array Concept" />
     <MESSAGE value="Target Sum problem" />
     <MESSAGE value="Reverse Array" />
@@ -485,7 +489,16 @@
     <MESSAGE value="..." />
     <MESSAGE value="Basic Bubble Sort algorithm for sorting array elements in asc/desc order" />
     <MESSAGE value="updated the methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the methods" />
+    <MESSAGE value="file update" />
+    <MESSAGE value="placed the file in a new package and with some changes" />
+    <MESSAGE value="Created an optimized bubble sort program" />
+    <MESSAGE value="updating package" />
+    <MESSAGE value="Selection Sort algorithm" />
+    <MESSAGE value="updated the program with descending order sorting using selection sort" />
+    <MESSAGE value="Sorting int array using Insertion Sort" />
+    <MESSAGE value="Solving problem 1" />
+    <MESSAGE value="Solving problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving problem 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
