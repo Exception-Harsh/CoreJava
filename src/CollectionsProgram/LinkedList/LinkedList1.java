@@ -13,7 +13,6 @@ public class LinkedList1 {
 
             System.out.println(ll1);
 
-
             System.out.println(ll1.get(1));
 
             System.out.println(ll1.indexOf(300));

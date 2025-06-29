@@ -23,6 +23,7 @@ public class ArrayList1 {
         System.out.println(al2);
 
         al1.addAll(3, al2);
+        System.out.println(al1.containsAll(al2));
         System.out.println("Collection al1 after adding al2 to 3rd index: " + al1);
 
         //using for loop
